@@ -29,7 +29,7 @@ def root():
         <p class="lead"></p>
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12">
-				<h3 style="color:red">Only people who use the official PicoBrowser are allowed on this site!</h3>
+				<h3 style="color:red">Only people who are are from GDSC are allowed on this site!</h3>
 			</div>
 		</div>
 		<br>
@@ -80,7 +80,7 @@ $(document).ready(function(){
         <p class="lead"></p>
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12">
-				<h3 style="color:red">Only people who use the official PicoBrowser are allowed on this site!</h3>
+				<h3 style="color:red">Bhai, I am going to reject your request bhai. Reason - ACCESS False</h3>
 			</div>
 		</div>
 		<br>
@@ -105,7 +105,7 @@ $(document).ready(function(){
 </body></html>
 '''
 
-    return 'Welcome to the protected page!'
+    return 'GDSC{C@ugHT_Th3_Fl@g}'
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0", debug=True)
